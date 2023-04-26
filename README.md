@@ -49,5 +49,5 @@ cd ~/orb_slam2_code/ORB_SLAM2
 
 **运行效果**
 
-![Image text](https://github.com/haicheng12/yolo_rotation/blob/main/img/yolo.png)
+![Image text](https://github.com/haicheng12/orb_slam2_code/blob/main/img/test_orb_slam2.png)
 
