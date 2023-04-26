@@ -13,6 +13,7 @@
 ```
 ubuntu 18.04
 ros melodic
+opencv-4.5.5
 ```
 
 **整体思路**
@@ -28,6 +29,9 @@ https://github.com/gaoxiang12/ORBSLAM2_with_pointcloud_map
 
 cmake版本更新：
 https://blog.csdn.net/weixin_42888638/article/details/125617062
+
+安装编译opencv：
+参考：https://blog.csdn.net/dfman1978/article/details/124085664
 
 编译问题：
 https://blog.csdn.net/qq_15698613/article/details/98453592
